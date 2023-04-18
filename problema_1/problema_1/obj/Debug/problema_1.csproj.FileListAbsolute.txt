@@ -1,0 +1,8 @@
+C:\Users\marga\Desktop\c#\problema_1\problema_1\bin\Debug\problema_1.exe.config
+C:\Users\marga\Desktop\c#\problema_1\problema_1\bin\Debug\problema_1.exe
+C:\Users\marga\Desktop\c#\problema_1\problema_1\bin\Debug\problema_1.pdb
+C:\Users\marga\Desktop\c#\problema_1\problema_1\obj\Debug\problema_1.csproj.AssemblyReference.cache
+C:\Users\marga\Desktop\c#\problema_1\problema_1\obj\Debug\problema_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marga\Desktop\c#\problema_1\problema_1\obj\Debug\problema_1.csproj.CoreCompileInputs.cache
+C:\Users\marga\Desktop\c#\problema_1\problema_1\obj\Debug\problema_1.exe
+C:\Users\marga\Desktop\c#\problema_1\problema_1\obj\Debug\problema_1.pdb
